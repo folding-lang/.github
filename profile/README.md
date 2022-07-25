@@ -4,13 +4,11 @@
 
 ### I am .....
 
-I'll be in variety platform (JS, JVM, etc...)
+I love variety platform (JS, JVM, etc...)
 
-I love OOP and FP.
+I love both OOP and FP.
 
 I like both [t]ype-class and #method
-
-**And I hate COMMA(,)**
 
 ## Feature
 
