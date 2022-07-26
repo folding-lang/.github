@@ -2,6 +2,8 @@
 
 ##### an open-source programming language
 
+## Features
+
 ### I am .....
 
 I love variety platform (JS, JVM, etc...)
@@ -10,15 +12,14 @@ I love both OOP and FP.
 
 I like both [t]ype-class and #method
 
-## Feature
-
 ### folding function
 
 optimize function call with 'folding' keyword.
 
 They can be pre-carculated with pure objects on compiling.
 
-#### example
+<details>
+<summary> #### example </summary>
 
 When we have the 'folding' function...
 
@@ -37,6 +38,9 @@ Then these code are all the same as this...
 ``` println(16) ```
 
 (operaters such as [+],[*],[-],[/] are also 'folding' function )
+</details>
+
+
 
 
 
