@@ -1,17 +1,11 @@
-# [![<repo>](https://avatars.githubusercontent.com/u/108618865?s=56&v=4)](https://github.com/folding-lang/folding) Folding
+# [![<repo>](https://avatars.githubusercontent.com/u/108618865?s=56&v=4)](https://github.com/folding-lang/folding) Folding Lang
 
-##### an open-source programming language without comma(,)
+the Programming Language Grammar Laboratory
 
-## Features
+## Works
 
-### inverse function
+- [Folding](https://github.com/folding-lang/folding) (for defining inverse function)
 
-example
-
-```
-let 8 + (->x - 1) = 9
-println(#x)  // 2
-```
 
 
 
