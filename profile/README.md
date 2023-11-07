@@ -4,7 +4,7 @@ the Programming Language Grammar Laboratory
 
 ## Works
 
-- [Folding](https://github.com/folding-lang/folding) (the language for defining inverse function)
+- [Folding](https://github.com/folding-lang/folding) (the language, for defining inverse function, without comma(,))
 
 
 
